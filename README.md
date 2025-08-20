@@ -34,4 +34,6 @@ This Uber Ride Booking Dashboard provides a detailed, interactive view of Uber r
 
 
 ## Screenshot
+<img width="1042" height="586" alt="Screenshot 2025-08-20 082036" src="https://github.com/user-attachments/assets/8f45994d-fd56-48f5-9c94-13ce640c6b2d" />
+
 <img width="1045" height="584" alt="Screenshot 2025-08-20 082653" src="https://github.com/user-attachments/assets/a0b25cd1-f73e-4bb4-8241-13691288662a" />
